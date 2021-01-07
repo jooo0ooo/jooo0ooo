@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jooo0ooo's github stats](https://github-readme-stats.vercel.app/api?username=jooo0ooojooo0ooo&show_icons=true)
+![Jooo0ooo's github stats](https://github-readme-stats.vercel.app/api?username=jooo0ooo&show_icons=true)
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wldn3634)](https://solved.ac/wldn3634)
