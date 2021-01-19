@@ -5,11 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooo0ooo&layout=compact)](https://github.com/jooo0ooo/github-readme-stats)
 
 
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wldn3634)](https://solved.ac/wldn3634)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wldn3634)](https://solved.ac/wldn3634)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldn3634)](https://solved.ac/wldn3634)
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldn3634)](https://solved.ac/wldn3634)
 
 
 <!--
