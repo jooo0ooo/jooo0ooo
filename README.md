@@ -1,8 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=Joo&height=200&fontSize=100)
 
-![Jooo0ooo's github stats](https://github-readme-stats.vercel.app/api?username=jooo0ooo&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooo0ooo&layout=compact)](https://github.com/jooo0ooo/github-readme-stats)
+<!--### Hi there 👋-->
+
+![Jooo0ooo's github stats](https://github-readme-stats.vercel.app/api?username=jooo0ooo&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooo0ooo&layout=compact&theme=dracula)](https://github.com/jooo0ooo/github-readme-stats)
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldn3634)](https://solved.ac/wldn3634)
