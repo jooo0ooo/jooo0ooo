@@ -1,14 +1,15 @@
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Joo&height=200&fontSize=100&animation=twinkling)
 
-<h3 style="text-align:center;">Welcome to Jootopia!<br/>
+<h3>Welcome to Jootopia!<br/>
 If you are looking for the most energetic and positive Software Engineer in the world, don’t hesitate to contact me.<br/>
 Check my info below👇👇</h3>
 <br/>
 
-<h2 style="text-align: center;">⌨️Tech Stack⌨️</h2>
-<h3 style="text-align: center;">Core Technical Skills🥇</h3>
-<p style="text-align: center;">
+<h2>⌨️Tech Stack⌨️</h2>
+<h3>Core Technical Skills🥇</h3>
+<p>
 <img  src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
 <img  src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
 <img  src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
@@ -19,8 +20,8 @@ Check my info below👇👇</h3>
 <img  src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
 </p>
 
-<h3 style="text-align: center;">Experienced Skills🥈</h3>
-<p style="text-align: center;">
+<h3>Experienced Skills🥈</h3>
+<p>
 <img  src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
 <img  src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
 <img  src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
@@ -31,9 +32,10 @@ Check my info below👇👇</h3>
 </p>
 <br/>
 
-![Jooo0ooo's github stats](https://github-readme-stats.vercel.app/api?username=jooo0ooo&show_icons=true&theme=dracula)
+| GitHub Stats | Most Used Languages |
+|:----:|:----:|
+| ![Jooo0ooo's github stats](https://github-readme-stats.vercel.app/api?username=jooo0ooo&show_icons=true&theme=dracula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooo0ooo&layout=compact&theme=dracula)](https://github.com/jooo0ooo/github-readme-stats) |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooo0ooo&layout=compact&theme=dracula)](https://github.com/jooo0ooo/github-readme-stats)
 
 <h2>Online Judge</h2>
 <h3>Baekjoon Online Judge<h3>
@@ -53,3 +55,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
