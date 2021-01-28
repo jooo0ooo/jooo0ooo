@@ -41,6 +41,11 @@ Check my info below👇👇</h3>
 <h3>Baekjoon Online Judge<h3>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldn3634)](https://solved.ac/wldn3634)
+
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjooo0ooo&count_bg=%23B84BFF&title_bg=%23D697FF&icon=swarm.svg&icon_color=%235C257F&title=&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **jooo0ooo/jooo0ooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
